@@ -28,10 +28,6 @@ Computer Science Student • Front-End Developer • UI/UX Enthusiast
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,java,cpp,python,php,mysql,git,github,figma,vscode" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
 ---
 
 ## 🚀 Featured Projects

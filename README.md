@@ -49,23 +49,6 @@ Computer Science Student • Front-End Developer • UI/UX Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arwamalherz-cmyk&show_icons=true&hide_border=true" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwamalherz-cmyk&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arwamalherz-cmyk&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 

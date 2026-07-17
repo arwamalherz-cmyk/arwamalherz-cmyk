@@ -32,11 +32,13 @@ Computer Science Student • Front-End Developer • UI/UX Enthusiast
 
 ## 🚀 Featured Projects
 
-- **[Capsule Tahawul]** — An educational opportunities platform built with React, TypeScript, and Tailwind CSS.
+- 💻 **[Capsule Tahawul]** — An educational opportunities platform built with React, TypeScript, and Tailwind CSS.
 
-- **[Brew & Bean]** — A responsive coffee shop e-commerce website built with PHP, HTML, CSS, and MySQL.
+- ☕ **[Brew & Bean]** — A responsive coffee shop e-commerce website built with PHP, HTML, CSS, and MySQL.
 
-- **[StudyFlow]** — A smart study planner web application for managing tasks, subjects, and academic progress.
+- 📚 **[StudyFlow]** — A smart study planner web application for managing tasks, subjects, and academic progress.
+
+- 💡 **[SparkUp]** — An innovation platform that connects creative ideas with collaborators, mentors, and opportunities.
 
 ---
 

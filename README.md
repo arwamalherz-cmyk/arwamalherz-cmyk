@@ -61,7 +61,6 @@ Computer Science Student • Front-End Developer • UI/UX Enthusiast
 </p>
 
 - 📍 Saudi Arabia
-- 💼 Open to collaboration on web and mobile application projects
 
 ---
 

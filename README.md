@@ -32,11 +32,11 @@ Computer Science Student • Front-End Developer • UI/UX Enthusiast
 
 ## 🚀 Featured Projects
 
-- **[Capsule Tahawul](ضعِي-رابط-المشروع-هنا)** — An educational opportunities platform built with React, TypeScript, and Tailwind CSS.
+- **[Capsule Tahawul]** — An educational opportunities platform built with React, TypeScript, and Tailwind CSS.
 
-- **[Brew & Bean](arwamalherz-cmyk/Brew_Bean (https://github.com/arwamalherz-cmyk/Brew_Bean)ا)** — A responsive coffee shop e-commerce website built with PHP, HTML, CSS, and MySQL.
+- **[Brew & Bean]** — A responsive coffee shop e-commerce website built with PHP, HTML, CSS, and MySQL.
 
-- **[StudyFlow](arwamalherz-cmyk/StudyFlow_wep: StudyFlow – A smart study planner web application for managing tasks, subjects, and study progress. (https://github.com/arwamalherz-cmyk/StudyFlow_wep))** — A smart study planner web application for managing tasks, subjects, and academic progress.
+- **[StudyFlow]** — A smart study planner web application for managing tasks, subjects, and academic progress.
 
 ---
 

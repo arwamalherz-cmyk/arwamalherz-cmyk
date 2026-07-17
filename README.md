@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arwa Alherz</h1>
 
-<!--
-**arwamalherz-cmyk/arwamalherz-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student • Front-End Developer • UI/UX Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I enjoy building useful web and mobile applications with clean, simple, and user-friendly interfaces.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science student
+- 💻 Interested in Front-End Development and Web Applications
+- ⚛️ Working with React, TypeScript, JavaScript, and Tailwind CSS
+- 🖥️ Currently learning backend web development using Node.js and Express
+- 🔗 Developing my skills in building and integrating APIs
+- 🤖 Interested in adding AI-powered features to web applications
+- 🚀 Building projects that solve real problems and improve user experience
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,java,python,php,mysql,dart,flutter,git,github,figma,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **[Capsule Tahawul](ضعِي-رابط-المشروع-هنا)** — An educational opportunities platform built with React, TypeScript, and Tailwind CSS.
+
+- **[Brew & Bean](arwamalherz-cmyk/Brew_Bean (https://github.com/arwamalherz-cmyk/Brew_Bean)ا)** — A responsive coffee shop e-commerce website built with PHP, HTML, CSS, and MySQL.
+
+- **[StudyFlow](arwamalherz-cmyk/StudyFlow_wep: StudyFlow – A smart study planner web application for managing tasks, subjects, and study progress. (https://github.com/arwamalherz-cmyk/StudyFlow_wep))** — A smart study planner web application for managing tasks, subjects, and academic progress.
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Web Development with Node.js and Express
+- REST API Development and Integration
+-  Database Design and Management
+- AI Integration in Web Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arwamalherz-cmyk&show_icons=true&hide_border=true" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwamalherz-cmyk&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arwamalherz-cmyk&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arwa-alherz-5782273b0">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+- 📍 Saudi Arabia
+- 💼 Open to collaboration on web and mobile application projects
+
+---
+
+<p align="center">
+  ✨ Always learning, building, and improving.
+</p>
